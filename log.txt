@@ -1,0 +1,103 @@
+commit 3bb90b4e501e771a65c4f3212d6bf2ea66e15554
+Merge: 631a1fd 26ca79c
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:33:00 2019 +0200
+
+    Merge branch 'home'
+
+commit 631a1fd9ed12c3ef8e057b14a9a945b90835cc12
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:32:06 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..374db5f 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:red;}
+\ No newline at end of file
+
+commit 26ca79cc9c6ad6be186aeda25baf19cf7a7c445f
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:30:16 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..374db5f 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:red;}
+\ No newline at end of file
+
+commit e122366e881beab4a239e1af5718ef9c201538d8
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:29:01 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/Cattura.PNG b/img/Cattura.PNG
+new file mode 100644
+index 0000000..c8cd8df
+Binary files /dev/null and b/img/Cattura.PNG differ
+
+commit 55e7e7d7e13d99f9f9e27908607c7cda4ee527d1
+Merge: 718b278 1510bcf
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:21:51 2019 +0200
+
+    Merge branch 'Contatti' into home
+
+commit 1510bcfbe1d8ff1f116ff69a1798172e3415b1b8
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:20:30 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 02756fb74b7468cb11738e1893aa6b3bf2258c59
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:18:59 2019 +0200
+
+    Creata la pagina contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 88fe66e4c2286f6ddafb75f1419577b9f5fc2caa
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:15:34 2019 +0200
+
+    Inserita Immagine
+
+diff --git a/img/Sport.png b/img/Sport.png
+new file mode 100644
+index 0000000..546082e
+Binary files /dev/null and b/img/Sport.png differ
+
+commit 718b278b15befaa40e48596c51a6cf58d961c6bc
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:12:49 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 53032316f35474b1b154e255bc8dfc5f516760be
+Author: xMrGheg <matteo.gagliardi00@gmail.com>
+Date:   Sat Apr 13 11:06:57 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
